@@ -1,0 +1,7 @@
+Name: shiva
+ID: 103
+Date: 2025-04-10
+Base Salary: 25000
+Bonus: 5000
+Deductions: 3000
+Net Salary: 27000

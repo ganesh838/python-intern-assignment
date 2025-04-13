@@ -1,0 +1,7 @@
+Name: Mahesh
+ID: 102
+Date: 2025-04-10
+Base Salary: 28000
+Bonus: 4000
+Deductions: 1000
+Net Salary: 31000

@@ -1,0 +1,7 @@
+Name: Ganesh
+ID: 101
+Date: 2025-04-10
+Base Salary: 30000
+Bonus: 5000
+Deductions: 2000
+Net Salary: 33000
